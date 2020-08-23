@@ -20,6 +20,6 @@
 
 ![jdcr1425's github stats](https://github-readme-stats.vercel.app/api?username=jdcr1425&show_icons=true&line_height=30)
 
-🌱 Learning all about **Open Source**
+🌱 Learning all about **Javascript Stack**
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jdcr1425.jdcr1425)
