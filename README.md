@@ -6,9 +6,9 @@
 
 **💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
-**👨🏻‍💻 The project I am currently working on: ** 
+**👨🏻‍💻 The project I am currently working on:** 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ApurvShah007&repo=Algorithmic_trading)](https://github.com/jdcr1425/LoanService)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdcr1425&repo=LoanService)](https://github.com/jdcr1425/LoanService)
 
 
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
@@ -21,11 +21,5 @@
 ![jdcr1425's github stats](https://github-readme-stats.vercel.app/api?username=jdcr1425&show_icons=true&line_height=30)
 
 🌱 Learning all about **Open Source**
-
-⭐️ From [jdcr1425](https://github.com/jdcr1425)
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=jdcr1425.jdcr1425)
