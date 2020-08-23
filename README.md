@@ -17,4 +17,4 @@
 
 🌱 Learning all about **Open Source**
 
-⭐️ From [EngincanV](https://github.com/EngincanV)
+⭐️ From [jdcr1425](https://github.com/jdcr1425)
