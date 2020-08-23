@@ -15,7 +15,7 @@
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://www.mongodb.com/es" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://expressjs.com/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
-<code><a href="https://expressjs.com/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
+<code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 
 
 ![jdcr1425's github stats](https://github-readme-stats.vercel.app/api?username=jdcr1425&show_icons=true&line_height=30)
