@@ -11,11 +11,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jdcr1425&repo=LoanService)](https://github.com/jdcr1425/LoanService)
 
 
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
+<code><a href="https://nodejs.org/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><a href="https://www.mongodb.com/es" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="https://expressjs.com/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
-
+<code><a href="https://expressjs.com/es/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
 
 
 ![jdcr1425's github stats](https://github-readme-stats.vercel.app/api?username=jdcr1425&show_icons=true&line_height=30)
