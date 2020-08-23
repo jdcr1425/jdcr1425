@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/juan-david-casseres-0b163a163/)
 [![GitHub followers](https://img.shields.io/github/followers/EngincanV.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/jdcr1425?tab=followers)
 
-[comment]: <>**💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
+[comment]: <> **💼 Currently working as:** Software Engineering Intern at <a href="https://volosoft.com/" target="_blank"><b>Volosoft</b></a>
 
 **👨🏻‍💻 The project I am currently working on:** 
 
